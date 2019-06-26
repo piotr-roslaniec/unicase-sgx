@@ -6,6 +6,7 @@ use std::fmt;
 use std::hash::{Hash, Hasher};
 use std::ops::{Deref, DerefMut};
 use std::str::FromStr;
+use std::string::String;
 
 use super::{Ascii, Encoding, UniCase};
 
